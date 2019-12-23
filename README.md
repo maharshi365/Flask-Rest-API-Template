@@ -5,7 +5,7 @@ This is a basic flask api template that can be used to build flask applications
 ## Startup
 1. Change directory to Flask_App and then run `python -m pip install -r requirements.txt`
 2. Once all requirements are installed do `python run.py`
-3. Go to [localhost:5000] for the swagger page
+3. Go to [localhost](http://localhost:5000/) for the swagger page
 
 ## New Models
 1. Database models are defined inside Flask_App/Main/Models
